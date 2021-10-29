@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning flutter,python,djason 
+- 🌱 I’m currently learning DBMS,OS. 
 - 🔭 Areas of interest - web designing (Frontend) , AI , Android Development
 - 👯 I’m looking to collaborate on flutter & djason
 - 🤔 I’m looking for help with documentation & research on creative ideas
