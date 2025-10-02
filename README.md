@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Angular. 
 - 🔭 Areas of interest - web designing (Backend/Frontend) 
 - 👯 I’m looking to collaborate on Node.js & Angular.js
 - 🤔 I’m looking for help with documentation & research on creative ideas
